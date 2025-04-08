@@ -13,7 +13,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=KhramcovAleks&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey there 👋 my name is Aleksandr. Let's code!
+  Hey there 👋 my name is Aleksandr!
 </h1>
 </div>
 
@@ -24,7 +24,7 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - :bank: I’m working as a QA Engineer and develop a backend in a bank.
   
 - :telescope: Exploring Technical Content Writing.
-- 
+  
 - :sunglasses: I'm manual and automatization QA
 
 - :metal: I'm also admin of Jira.
