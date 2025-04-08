@@ -21,7 +21,7 @@
 
 I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :bank: I’m working as a QA Engineer and develop a backend in a bank.
+- :bank: I’m working as a QA Engineer.
   
 - :telescope: Exploring Technical Content Writing.
   
